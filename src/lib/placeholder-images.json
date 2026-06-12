@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "compiler",
+      "description": "AI-Powered Online Compiler",
+      "imageUrl": "https://placehold.co/1080x720/141413/C9C8BF?text=Online+Compiler+System",
+      "imageHint": "coding terminal"
+    },
+    {
+      "id": "sentiment",
+      "description": "Customer Feedback Sentiment Analysis",
+      "imageUrl": "https://placehold.co/1080x720/141413/AFACA1?text=Sentiment+Analysis+AI",
+      "imageHint": "data dashboard"
+    },
+    {
+      "id": "recommendation",
+      "description": "LLM-Based Product Recommendation System",
+      "imageUrl": "https://placehold.co/1080x720/141413/C9C8BF?text=LLM+Recommendation+Engine",
+      "imageHint": "smart shopping"
+    },
+    {
+      "id": "leadership",
+      "description": "Technical Club Leadership",
+      "imageUrl": "https://placehold.co/1080x720/141413/AFACA1?text=Technical+Leadership",
+      "imageHint": "leadership team"
+    },
+    {
+      "id": "traffic",
+      "description": "Computer Vision Traffic Analysis",
+      "imageUrl": "https://placehold.co/1080x720/141413/C9C8BF?text=CV+Traffic+Analytics",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "finance",
+      "description": "Financial AI Agent",
+      "imageUrl": "https://placehold.co/1080x720/141413/AFACA1?text=Financial+RAG+Agent",
+      "imageHint": "stock charts"
+    },
+    {
+      "id": "profile_photo",
+      "description": "Ganesh Oruganti Profile Photo",
+      "imageUrl": "https://i.postimg.cc/PrRRvZfq/Whats-App-Image-2025-12-01-at-7-53-12-PM.jpg",
+      "imageHint": "professional portrait"
+    }
+  ]
+}
